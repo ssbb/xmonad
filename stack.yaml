@@ -5,8 +5,6 @@ packages:
     extra-dep: true
   - location: ./xmonad-contrib
     extra-dep: true
-  - location: ./taffybar
-    extra-dep: true
 extra-deps: []
 flags: {}
 extra-package-dbs: []
